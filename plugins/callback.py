@@ -57,27 +57,27 @@ async def about_cb(c, m):
     # about text
 #    about_text = f"""--**Mʏ Dᴇᴛᴀɪʟs:**--
 
-#**⚜ Mʏ ɴᴀᴍᴇ : FɪʟᴇSᴛᴏʀᴇBᴏᴛ**\n
+#**⚜ Mʏ ɴᴀᴍᴇ : 𐍃𑀱꤀꤅ꤕ 𐍆꤈꤯𑀋**\n
 #**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`\n
-#**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)\n
-#**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)\n
-#**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)\n
-#**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 11-ᴊᴜʟʏ-21 ] 04:35 PM](https://telegram.me/AvishkarPatil)
+#**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Bᴏᴛ_Fʟɪx](https://telegram.me/Bot_Flix)\n
+#**🔸Mᴏᴠɪᴇs :** [MᴏᴠɪᴇsHᴜʙFʟɪx](https://telegram.me/MoviesHubFlix)\n
+#**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ](https://github.com/avipatilpro/FileStoreBot)\n
+#**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 11-ᴊᴜʟʏ-21 ] 04:35 PM](https://telegram.me/Bot_Flix)
 #"""
 
     about_text = f"""--**🍺 Mʏ Dᴇᴛᴀɪʟs:**--
     
-╭───[ **🔅 FɪʟᴇSᴛᴏʀᴇBᴏᴛ 🔅** ]───⍟
+╭───[ **🔅 𐍃𑀱꤀꤅ꤕ 𐍆꤈꤯𑀋 🔅** ]───⍟
 │
 ├**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`
 │
-├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)
+├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Bᴏᴛ_Fʟɪx](https://telegram.me/Bot_Flix)
 │
-├**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)
+├**🔸Mᴏᴠɪᴇs :** [MᴏᴠɪᴇsHᴜʙFʟɪx](https://telegram.me/MoviesHubFlix)
 │
-├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)
+├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ](https://github.com/avipatilpro/FileStoreBot)
 │
-├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/AvishkarPatil)
+├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/Bot_Flix)
 │
 ╰─────────[ 😎 ]────────⍟
 """  
